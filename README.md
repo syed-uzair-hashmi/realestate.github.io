@@ -9,7 +9,7 @@ The website consists of the following pages:
 
 1. **Home**
    - The landing page of the website.
-   - Features a top header with contact information, special offers, social media icons, login/register links, and a shopping cart icon.
+   - Features a top header with contact information, special offers, social media icons.
    - Includes a Swiper Slider showcasing featured properties or promotions.
 
 2. **About**
